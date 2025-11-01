@@ -4,4 +4,4 @@ title: Projects
 permalink: /project/
 ---
 
-Projects will be released soon!!
+[List of Projects](/_images/_assignments/2.pdf)

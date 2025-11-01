@@ -4,4 +4,6 @@ title: Assignments
 permalink: /assignments/
 ---
 
-Assignments will be released soon!
+- [Assignment 1](/_images/_assignments/1.pdf)
+
+- [Assignment 2](/_images/_assignments/2.pdf)
